@@ -50,3 +50,9 @@ JavaScriptレベル10は以下のような方を対象にしています。
 * JavaScriptレベル7を履修済み
 * JavaScriptレベル8を履修済み
 * JavaScriptレベル9を履修済み
+
+## 学習用実行環境の前提条件
+このカリキュラムでは、`CodeSpace`を利用していることを前提にしていますが、以下のような環境であれば、学習を進めることが可能です。
+
+* `CodeSpace`で`Node.js`がインストールされている。
+* `Visual Studio Code`などの`IDE`（統合開発環境）で`Node.js`がインストールされている。
